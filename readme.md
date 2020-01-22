@@ -6,7 +6,7 @@ different country
 * Python v3.7
 * PySide2 v5.14
 
-## Installation
+## Installation 
 For install this project, here are the following commands:
 ### Command Universal
 ```
