@@ -1,3 +1,4 @@
+CurrencyConverter==0.14
 pkg-resources==0.0.0
 PySide2==5.14.0
 shiboken2==5.14.0
