@@ -16,7 +16,7 @@ For install this project, here are the following commands:
 - pip install -r packages.txt 
 ```
 #### With IDE
-* After start the IDE 
+* After start the IDE
 * Run the file app.py which is the folder app with interpreter in the folder env/bin/
 * And now you have launch application, have fun
 
