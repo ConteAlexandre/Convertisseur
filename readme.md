@@ -1,16 +1,31 @@
-# Convertisseur de Devises
+# Project Converter
+This project has benn created with the language Python and it allows of converter the devices
+different country
 
-## Introduction
-J'ai réalisé ce convertisseur de devises avec le langage python grâce à un tutoriel effectué
-avec Udemy.
+## Language for this project and Packages
+* Python v3.7
+* PySide2 v5.14
 
-### Langages et Modules
-* Pour le langage, j'ai utilisé uniquement python qui est en version 3.7
-* En Module, j'ai utilisé PySide2 dont l'installation à été réalisé avec pip3.7 qui est implémenté
-automatiquement avec Python
-
-```diff
-- Attention il faut absolument installer le paquet PySide2 avec la commande suivante : 
-- pip3.7 install PySide2
+## Installation
+For install this project, here are the following commands:
+### Command Universal
 ```
+- git clone git@github.com:ConteAlexandre/Convertisseur.git
+- cd Convertisseur
+- write command source env/bin/activate
+- pip install -r packages.txt 
+```
+#### With IDE
+* After start the IDE
+* Run the file app.py which is the folder app with interpreter in the folder env/bin/
+* And now you have launch application, have fun
 
+#### Without IDE
+Start just one command in the terminal which is in the repository of the project :
+```
+- python3 app.py which is the folder app
+```
+* And now you have launch application, have fun
+
+## Conclusion
+This project has been created with a courses Udemy
