@@ -12,8 +12,8 @@ For install this project, here are the following commands:
 ```
 - git clone git@github.com:ConteAlexandre/Convertisseur.git
 - cd Convertisseur
-- type command python3 -m venv env
-- write command source env/bin/activate
+- python3 -m venv env
+- source env/bin/activate
 - pip install -r packages.txt 
 ```
 #### With IDE
